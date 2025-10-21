@@ -29,8 +29,6 @@ class Solution {
             }
         }
         System.out.println(charCountMapMagazine);
-
-
         System.out.println(charCountMapRansomeNote);
         
         HashMap<Character, Integer> newHashMap = new HashMap<>();
@@ -53,15 +51,8 @@ class Solution {
                 }
 
             }
-            else {
-                System.out.println("No");
-            }
 
         }
-
-        System.out.println(newHashMap);
-
-
 
         if(newHashMap.equals(charCountMapRansomeNote)) {
             canbuild = true;
