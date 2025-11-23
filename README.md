@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0383-ransom-note) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
