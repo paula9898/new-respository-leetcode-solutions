@@ -5,7 +5,6 @@ class Solution {
 
         for(int i = convertedInt.length()-1; i >= 0; i-- ) {
             newBuilder.append(convertedInt.charAt(i));
-            System.out.print(convertedInt.charAt(i));
         }
 
         String reversedWord = newBuilder.toString();
