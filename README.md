@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0704-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
