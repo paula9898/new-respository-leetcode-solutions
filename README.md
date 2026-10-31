@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0383-ransom-note) |
 ## Math
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/paula9898/new-respository-leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String Matching
 |  |
