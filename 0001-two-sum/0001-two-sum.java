@@ -1,35 +1,21 @@
 class Solution {
-   public int[] twoSum(int[] nums, int target) {
+    public int[] twoSum(int[] nums, int target) {
+        
+         int[] emptyArray = new int[]{};
 
-        //nums = [2,7,11,15];
+        for(int i = 0; i < nums.length; i++){
 
+            for(int j = i+1; j < nums.length; j++) {
 
-        int[] result = new int[2];
+                int sum = nums[i] + nums[j];
 
-        for(int i = 0; i< nums.length-1; i++)
-        {
-
-            int holder;
-
-            for(int a = i+1;a< nums.length; a++)
-            {
-                holder = nums[i];
-                if(holder + nums[a] == target)
-                {
-                    result[0]= i;
-                    result[1]= a;
+                if(sum == target) {
+                    int[] numbers = { i, j };
+                    return numbers;
                 }
-
             }
 
-
         }
-        for( int j : result)
-        {
-            System.out.println(j);
-        }
-
-        return result;
-
+        return emptyArray;
     }
 }
